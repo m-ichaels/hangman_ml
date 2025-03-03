@@ -28,7 +28,7 @@ To demonstrate my comfort with a range of machine learing methodologies, I have 
 
 ## Purpose
 
-This project serves as a demonstration of my fluency with all major machine learning algorithms, and leverage them as a tool for problem solving.
+This project serves as a demonstration of my fluency with all major machine learning algorithms, and the ability to leverage them as a tool for practical problem solving.
 
 ---
 
